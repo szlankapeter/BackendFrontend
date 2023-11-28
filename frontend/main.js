@@ -1,5 +1,5 @@
-import Controller from "./Controller/Controller.js"
-
-$(function(){
-    new Controller();
-})
+import UrlapController from "./controller/UrlapController.js";
+$(function () {
+   
+     new UrlapController();
+});
